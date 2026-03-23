@@ -468,10 +468,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## ⭐ If You Like This Project
 If you found this project useful, consider giving it a star on GitHub!
-```text
-If you want, I can also provide:
-1. a **more attractive premium README version with banners and centered badges**, or  
-2. a **shorter one-page professional README** for portfolio use.
-```
 
 ---
