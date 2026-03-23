@@ -395,13 +395,3 @@ E-Commerce-Churn-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
----
-
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/E-Commerce-Churn-Prediction.git
-cd E-Commerce-Churn-Prediction
